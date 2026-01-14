@@ -24,7 +24,6 @@ const User = sequelize.define(
         }
     }, {
         tableName: "User",
-        schema: "public",
         createdAt: "created_at"
     }
 )
