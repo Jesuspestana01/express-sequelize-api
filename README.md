@@ -55,7 +55,7 @@ The boilerplate comes with the following ready-to-use routes for the User model:
 * **GET: /users** - Retrieves a list of all registered users.
 * **POST: /users** - Creates a new user in the database.
 
-# 📂 Project Structure
+# Project Structure
 
 * **models/:** Sequelize schema definitions.
 * **routes/:** Endpoint definitions (e.g., userRoutes.js).
